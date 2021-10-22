@@ -1,5 +1,5 @@
 # 🎲주사위 게임(Dice game)
-> * 컴퓨터와 대결하는 주사위게임
+> * 리액트로 만든 주사위게임
 > * 링크: http://dicegame.react-minigame.s3-website.ap-northeast-2.amazonaws.com/
 
 ![image](https://user-images.githubusercontent.com/85826542/138397068-9c50cdcc-766a-4712-9e03-d39200cd2cdc.png)
