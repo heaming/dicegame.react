@@ -19,7 +19,7 @@
 
 
 ## 2. Usage
-<img src="https://user-images.githubusercontent.com/85826542/138398043-7aa76053-3fcb-4c3c-874e-bfaa0d1b3219.gif" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/85826542/138398043-7aa76053-3fcb-4c3c-874e-bfaa0d1b3219.gif" width="75%" height="75%">
 
 * 던지기
   + 던지기 클릭 시, '나'의 주사위와 '상대(컴퓨터)'의 주사위의 눈금이 랜덤으로 출력됩니다.
