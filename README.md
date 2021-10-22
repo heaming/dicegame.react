@@ -2,6 +2,8 @@
 > * 컴퓨터와 대결하는 주사위게임
 > * 링크: http://dicegame.react-minigame.s3-website.ap-northeast-2.amazonaws.com/
 
+![image](https://user-images.githubusercontent.com/85826542/138397068-9c50cdcc-766a-4712-9e03-d39200cd2cdc.png)
+
 
 ## 1. Tech Stack  
 <p>
@@ -16,8 +18,21 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p> <br/>
 
 
+## 2. Usage
+<img src="https://user-images.githubusercontent.com/85826542/138398043-7aa76053-3fcb-4c3c-874e-bfaa0d1b3219.gif" width="50%" height="50%">
 
-## 2. 주요 기능
+* 던지기
+  + 던지기 클릭 시, '나'의 주사위와 '상대(컴퓨터)'의 주사위의 눈금이 랜덤으로 출력됩니다.
+* 리셋
+  + 리셋 클릭 시, 모든 점수와 기록이 초기화됩니다.
+* 점수계산
+  + 출력된 주사위의 눈금만큼 점수가 합산됩니다.
+* 기록
+  + 출력되었던 주사위의 눈금들을 확인할 수 있습니다.
+<br/>
+
+
+## 3. Code
 * 대화 주고 받기
   + 채팅창에 명령어를 입력한 후, enter키를 누르거나 <입력>을 클릭하세요.
   + 챗봇이 기본으로 알고 있는 말은 "안녕", "안녕하세요", "넌 누구니?" 등이 있습니다.
